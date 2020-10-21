@@ -235,6 +235,15 @@
     "country": "Colombia",
     "name": "Bryan Moreno"
   },
+
+  "bolajiscott": {
+    "country": "Nigeria",
+    "linkedin": "https://www.linkedin.com/in/bolaji-ogidan-b1704377/",
+    "name": "Bolaji ogidan",
+    "github" : "https://github.com/bolajiscott",
+    "twitter" : "https://twitter.com/bolajiogidan"
+  },
+
   "catw101": {
     "country": "United States",
     "name": "Catelen Wu"
@@ -1228,11 +1237,5 @@
     "country": "Indonesia",
     "linkedin": "https://www.linkedin.com/in/fardeen-atallah-kabir-muhammad-4787681a0",
     "name": "Fardeen Atallah Kabir Muhammad"
-  },
-  "bolajiscott": {
-    "country": "Nigeria",
-    "linkedin": "https://www.linkedin.com/in/bolaji-ogidan-b1704377/",
-    "name": "Bolaji ogidan",
-    "github" : "https://github.com/bolajiscott",
-    "twitter" : "https://twitter.com/bolajiogidan"
-},
+  }
+}
